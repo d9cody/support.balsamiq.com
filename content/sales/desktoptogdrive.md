@@ -21,7 +21,7 @@ Another thing to consider is that Mockups 3 for Google Drive's entry price of ju
 
 * * *
 
-## Use Mockups for Google Drive for Free as a Viewer
+## Use Mockups for Google Drive for Free as a Viewer  
 
 We structured our Mockups 3 for Google Drive licensing so that after the 30-day trial is over, you (or your clients) will still be able to open any and view Mockups files stored on Google Drive. However, you will not be able to edit or create new mockups unless you sign up for a [paid plan](/sales/gdrivesubscription/#signing-up-for-a-subscription).
 
